@@ -1,5 +1,7 @@
 # Neuron — Modern Personal & Group Expense Tracker
 
+🔗 Repository: https://github.com/arun-kumarsb/Neuron
+
 Neuron is a modern, fast, and analytics-driven expense tracker built with Expo + React Native. Designed for individuals and groups, Neuron simplifies daily spending, smart splits, settlements, and financial insights with a clean UI and smooth performance.
 
 ------------------------------------------------------------
@@ -86,41 +88,30 @@ spendsense/
 ------------------------------------------------------------
 📦 Installation & Running
 ------------------------------------------------------------
-📦 Quick Setup (Run on Any Laptop)
+Requirements
 
-Requirements:
 Node.js (>=18)
+
 npm or yarn
+
 Git
 
-1. Clone the repository
-
-git clone https://github.com/vpd18/Neuron.git
-
-2. Enter project directory
-
+Clone the repository
+git clone https://github.com/arun-kumarsb/Neuron.git
+Enter the project folder
 cd Neuron/spendsense
-
-3. Install all dependencies
-
-npm run setup
-
-4. Start the application
-
-npm run start
-------------------------------------------------------------
-Clone the repository:
-git clone https://github.com/vpd18/Neuron.git
-cd Neuron/spendsense
+Install dependencies
 npm install
-
-Start the app:
+Start the app
 npx expo start
 
 Run using:
-- Expo Go (Tunnel or LAN)
-- Android Emulator
-- Web Browser (limited)
+
+Expo Go
+
+Android Emulator
+
+Web Browser (limited support)
 
 ------------------------------------------------------------
 🗺 Roadmap
